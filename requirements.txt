@@ -2,3 +2,6 @@ jupyter
 sklearn
 pandas
 seaborn
+kaggle
+tslearn
+numpy==1.20

@@ -132,3 +132,4 @@ dmypy.json
 models/
 clustering_venv/
 input_data/
+demo_kmeans/
